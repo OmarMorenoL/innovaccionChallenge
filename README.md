@@ -11,7 +11,7 @@ Como parte del diseño de nuestra página, incluimos información sobre nosotros
 [Omar Moreno Lozano](https://github.com/omarmorle)
 
 El link a nuestra página web es el siguiente:
-### [The ESCOMpas](https://github.com/OmarMorenoL/innovaccionChallenge)
+### [The ESCOMpas](https://omarmorenol.github.io/innovaccionChallenge/)
 
 <p align="center">
 ☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
