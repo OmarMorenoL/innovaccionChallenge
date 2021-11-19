@@ -14,5 +14,5 @@ El link a nuestra página web es el siguiente:
 ### [The ESCOMpas](https://omarmorenol.github.io/innovaccionChallenge/)
 
 <p align="center">
-☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
+☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️
 </p>
